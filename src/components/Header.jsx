@@ -1,6 +1,4 @@
 import React from 'react';
-import Particles from './style/Particles';
-import Aurora from './style/aurora';
 import Galaxy from './style/Galaxy';
 import { Button } from '@/components/ui/button.jsx';
 import fotoProfile from '../assets/foto_profile.jpg';
