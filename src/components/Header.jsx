@@ -16,7 +16,7 @@ const Header = () => {
           glowIntensity={0.2}
           saturation={0.5}
           hueShift={240}
-          starSpeed={0.1}
+          starSpeed={0.05}
         />
       </div>
 
